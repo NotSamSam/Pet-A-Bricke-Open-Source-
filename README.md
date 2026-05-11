@@ -1,6 +1,6 @@
 # Pet-A-Bricke [Open Source]
 A Roblox game I made (only a part of the server side is available).
-
+The core of the logic can be find in PetService and PetModule
 ### File Tree :
 
 ```text
