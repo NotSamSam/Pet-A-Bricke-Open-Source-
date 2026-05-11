@@ -1,12 +1,13 @@
-# Pet-A-Bricke-Open-Source-
-A Roblox game I made (only a part of the server side avalaible)
+# Pet-A-Bricke [Open Source]
+A Roblox game I made (only a part of the server side is available).
 
-File tree :
+### File Tree :
 
-Server/ - file
-├── Components/ - folder
-└── Services/ - folder
-    ├── DataService/ - file
+```text
+Server/
+├── Components/
+└── Services/
+    ├── DataService/
     │   ├── DataStoreNetwork/ 
     │   ├── MainModule.luau
     │   │   ├── Proxy.luau
